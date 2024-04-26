@@ -1,0 +1,14 @@
+macOS Blue Symbolic for Windows
+
+Remove the file extension ".remove" from the files before using.
+You'll need to use 7TSP GUI 2019 Edition
+https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422
+
+----------------------------
+
+Runs on newer Windows 10 builds as well as Windows 11.
+
+----------------------------
+
+by niivu
+https://www.deviantart.com/niivu
